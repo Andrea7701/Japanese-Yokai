@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Japanese-Yokai/static/css/main.e93b77d2.css",
+    "main.js": "/Japanese-Yokai/static/js/main.f85fd146.js",
+    "index.html": "/Japanese-Yokai/index.html",
+    "main.e93b77d2.css.map": "/Japanese-Yokai/static/css/main.e93b77d2.css.map",
+    "main.f85fd146.js.map": "/Japanese-Yokai/static/js/main.f85fd146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93b77d2.css",
+    "static/js/main.f85fd146.js"
+  ]
+}
