@@ -1,0 +1,87 @@
+[
+
+    {
+        "id" : 1,
+        "name" : "kitsune",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/NineTailsFox.JPG",
+        "text" : "the kitsune are foxes that possess paranormal abilities that increase as they get older and wiser."
+    },
+
+    {
+        "id" : 2,
+        "name" : "Tanuki",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Yoshitoshi_tanuki.jpg/220px-Yoshitoshi_tanuki.jpg",
+        "text" : "are a kind of yōkai (supernatural beings) found in the classics and in the folklore and legends of various places in Japan, commonly associated with the Japanese raccoon dog or tanuki.."
+    },
+
+    {
+        "id" : 3,
+        "name" : "Kappa",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kappa_jap_myth.jpg/220px-Kappa_jap_myth.jpg",
+        "text" : "also known as kawatarō (川太郎, river-boy), komahiki (駒引, horse-puller), with a boss called kawatora (川虎, river-tiger) or suiko (水虎, water-tiger)—is a reptiloid kami with similarities to yōkai"
+    },
+
+    {
+        "id" : 4,
+        "name" : "Nekomata",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Suushi_Nekomata.jpg/220px-Suushi_Nekomata.jpg",
+        "text" : " are a kind of cat yōkai described in Japanese folklore, classical kaidan, essays, etc. There are two very different types: those that live in the mountains and domestic cats that have grown old and transformed into yōkai."
+    },
+
+    {
+        "id" : 5,
+        "name" : "Bakeneko",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Buson_Bakeneko.jpg/220px-Buson_Bakeneko.jpg",
+        "text" : "is a type of Japanese yōkai, or supernatural entity; more specifically, it is a kaibyō, or supernatural cat. It is often confused with the nekomata, another cat-like yōkai. The distinction between them is often ambiguous, but the largest difference is that the nekomata has two tails, while the bakeneko has only one"
+    },
+
+    {
+        "id" : 6,
+        "name" : "Tsuchigumo",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/35.Tsuchigumo.jpg/220px-35.Tsuchigumo.jpg",
+        "text" : "Tsuchigumo (土蜘蛛, literally translated: dirt/earth spider) is a historical Japanese derogatory term for renegade local clans, and also the name for a race of spider-like yōkai in Japanese folklore"
+    },
+
+    {
+        "id" : 7,
+        "name" : "Kasa-obake",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Enshin_Kasa-obake.jpg/170px-Enshin_Kasa-obake.jpg",
+        "text" : "Kasa-obake (Japanese: 傘おばけ) are a mythical ghost or yōkai in Japanese folklore. They are sometimes, but not always, considered a tsukumogami that old umbrellas turn into. They are also called karakasa-obake: (から傘おばけ), kasa-bake: (傘化け), and karakasa kozō: (唐傘小僧)."
+    },
+
+    {
+        "id" : 8,
+        "name" : "Futakuchi-onna",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Futakuchi-onna.jpg",
+        "text" : "Futakuchi-onna (ふたくちおんな - 二口女, two-mouthed woman) is a type of yōkai or Japanese monster. She is characterized by her two mouths – a normal one located on her face and a second one on the back of the head beneath the hair. There, the woman's skull splits apart, forming lips, teeth and a tongue, creating an entirely functional second mouth"
+    },
+
+    {
+        "id" : 9,
+        "name" : "Rokurokubi",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hokusai_rokurokubi.jpg/220px-Hokusai_rokurokubi.jpg",
+        "text" : "is a type of Japanese yōkai (apparition). They look almost completely like humans with some differences. There is a type whose neck stretches and another whose head detaches and flies around freely (nukekubi). The Rokurokubi appear in classical kaidan (spirit tales) and in yōkai works"
+    },
+
+    {
+        "id" : 10,
+        "name" : "Tengu",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyMC18iXkeiccUYNr0HfX6m9CWUkSkni5VPg&s",
+        "text" : "They are considered a type of yōkai (supernatural beings) or Shinto kami (gods or spirits). The Tengu were originally thought to take the forms of birds of prey and a monkey deity, and they were traditionally depicted with human, monkey, and avian characteristics. Sarutahiko Ōkami is considered to be the original model of Konoha-Tengu (a supernatural creature with a red face and long nose)."
+    },
+
+    {
+        "id" : 11,
+        "name" : "Sazae-oni",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/SekienSazae-oni.jpg/180px-SekienSazae-oni.jpg",
+        "text" : "are creatures from Japanese mythology, resembling large mollusks. They are a type of obake that forms when turban snails, especially Turbo sazae, reach 30 years of age"
+    },
+
+    {
+        "id" : 12,
+        "name" : "Wani",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MET_2013_733_04_crd.jpg/290px-MET_2013_733_04_crd.jpg",
+        "text" : "was a dragon or sea monster in Japanese mythology. Since it is written using the kanji 鰐 (from Chinese e 鰐 or 鱷 crocodile; alligator) wani is translated as crocodile, or sometimes shark (from wanizame 鰐鮫 shark)."
+    }
+
+]
