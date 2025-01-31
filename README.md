@@ -4,7 +4,7 @@
 
 # Built With 
  - Reactjs;
- - React Hooks;
+ - React Hooks
 
 
 # Author
