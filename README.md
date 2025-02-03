@@ -7,6 +7,7 @@ https://andrea7701.github.io/Japanese-Yokai/
 # Screenshoot
 
 <h2>FRONT</h2>
+
 ![Immagine 2025-02-03 105655](https://github.com/user-attachments/assets/263133bd-368f-4097-a4be-8b507ca67eba)
 ![Immagine 2025-02-03 105630](https://github.com/user-attachments/assets/a7ca542d-58f5-4b50-9bb0-0e9bb6b4a3f7)
 
